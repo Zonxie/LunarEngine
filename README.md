@@ -12,7 +12,7 @@ go get ./...
 ### Running the application
 
 ```
-go run .\engine\cmd\server.go
+go run .\LunarEngine\cmd\server.go
 ```
 
 ### Secret Token needed to contact this service

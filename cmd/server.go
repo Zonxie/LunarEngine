@@ -1,9 +1,9 @@
 package main
 
 import (
-	"LunarAssignment/engine/dao"
-	"LunarAssignment/engine/routes"
-	"LunarAssignment/engine/service"
+	"LunarAssignment/LunarEngine/dao"
+	"LunarAssignment/LunarEngine/routes"
+	"LunarAssignment/LunarEngine/service"
 	"fmt"
 )
 

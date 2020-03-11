@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"LunarAssignment/engine/model"
+	"LunarAssignment/LunarEngine/model"
 	"fmt"
 
 	"go.mongodb.org/mongo-driver/bson"

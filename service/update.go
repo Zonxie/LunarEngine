@@ -1,7 +1,7 @@
 package service
 
 import (
-	"LunarAssignment/engine/model"
+	"LunarAssignment/LunarEngine/model"
 	"log"
 )
 

@@ -1,7 +1,7 @@
 package service
 
 import (
-	"LunarAssignment/engine/model"
+	"LunarAssignment/LunarEngine/model"
 )
 
 func (s *LogicService) GetAccount(accountID int) (*model.Account, error) {
